@@ -3,13 +3,14 @@
     "background_color": "#35f679",
     "display": "browser",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "/",
+    "orientation": "any",
     "name": "Dog Adopt",
     "short_name": "Dog",
     "description": "A Dog adoption App",
     "icons": [
         {
-            "src": "images/icons/icon-192x192.png",
+            "src": "./images/icons/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
